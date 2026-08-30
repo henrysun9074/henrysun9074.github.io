@@ -2,13 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Henry Sun (he/him/his)
+subtitle: 
 
 profile:
   align: left
   image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p> Henry Sun (he/him/his)
+    <p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
