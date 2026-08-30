@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: left
   image: prof_pic2.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p> Henry Sun (he/him/his)
   #   <p>
