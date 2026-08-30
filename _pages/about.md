@@ -6,7 +6,7 @@ subtitle: PhD Student, Wong Lab, Duke University Marine Lab
 
 profile:
   align: right
-  image: P9040333.jpeg
+  image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
 #  more_info: 
 
