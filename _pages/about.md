@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Wong Lab, Duke University Marine Lab
+subtitle: 
 
 profile:
-  align: right
+  align: left
   image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
 #  more_info: 
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the [Duke University Marine Lab](https://nicholas.duke.edu/marinelab) under the supervision of [Dr. Juliet Wong](https://sites.duke.edu/wonglab/). I am interested in evolutionary and functional genomics, and more broadly in the development and application of machine learning methods for organismal biology. Current work focuses on fascinating marine invertebrate species, namely the sea urchin *Lytechinus variegatus* and the eastern oyster *Crassostrea virginica*.
+I am a PhD student at the [Duke University Marine Lab](https://nicholas.duke.edu/marinelab) under the supervision of [Dr. Juliet Wong](https://sites.duke.edu/wonglab/). I am interested in evolutionary and functional genomics, and more broadly in the development and application of machine learning approaches for biological research. My current work focuses on fascinating marine invertebrate species, namely the sea urchin *Lytechinus variegatus* and the eastern oyster *Crassostrea virginica*.
 
 My research spans basic questions, such as those regarding fundamental genetic mechanisms of adaptation, and applied interests, such as using genomic selection for breeding more resilient oysters for aquaculture. Almost all of the projects I work on have a strong computational dimension. Click [here](https://docs.google.com/document/d/1NRc4uUGUdmPvbK8cI_MxWFzOOo0wH3iYGxNSs-bqX1c/edit?usp=sharing) for a full CV.
 
