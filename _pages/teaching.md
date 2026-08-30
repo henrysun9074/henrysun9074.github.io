@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /outreach/
-title: outreach
+permalink: /teaching/
+title: teaching
 description: 
 nav: true
 nav_order: 4
