@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: henry sun
 permalink: /
 subtitle: 
 
@@ -8,9 +8,9 @@ profile:
   align: left
   image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p> Henry Sun (he/him/his)
-    <p>
+  # more_info: >
+  #   <p> Henry Sun (he/him/his)
+  #   <p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,4 +32,4 @@ My research spans basic questions, such as those regarding fundamental genetic m
 
 I graduated in May 2025, also from Duke, with a B.S in Marine Science and Conservation and a B.S. in Biology. As an undergraduate, I was a [Rachel Carson Scholar](https://nicholas.duke.edu/marinelab/academics/undergraduate/rachel-carson-scholars-program) and a [North Carolina Space Grant Undergraduate Scholar](https://ncspacegrant.ncsu.edu/higher-ed-opportunities/undergraduate-research-scholarships/). My senior thesis research was done in the [Marine Robotics and Remote Sensing (MaRRS) Lab](https://marineuas.net/) under the supervision of Dr. Dave Johnston, on the use of diffusion-based generative AI to create synthetic whale imagery.  
 
-Outside of doing research, I am passionate about scientific outreach, teaching, and mentorship. I am a staunch advocate of open science and strive to make all data and code for the projects I work on publically available through GitHub or other repositories. Teaching materials I have developed, such as slides for guest lectures or workshops about version control, will be made available on this website.
+Outside of doing research, I am passionate about scientific outreach, teaching, and mentorship. I am also a staunch advocate of open science and strive to make all data and code for the projects I work on publically available through GitHub or other repositories. Teaching materials I have developed, such as slides for guest lectures or workshops about version control, will be made available on this website.

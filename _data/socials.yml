@@ -9,7 +9,7 @@ scholar_userid: wGQalKIAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 github_username: henrysun9074 # your GitHub username
-inaturalist:
-  logo: /assets/img/inaturalist.svg
-  title: iNaturalist
-  url: https://www.inaturalist.org/people/YOUR_INATURALIST_USERNAME
+# inaturalist:
+#   logo: /assets/img/inaturalist.svg
+#   title: iNaturalist
+#   url: https://www.inaturalist.org/people/henrysun9074
