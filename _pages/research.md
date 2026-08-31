@@ -16,7 +16,7 @@ Here are some current areas of interest:
 
 Most current genomic analyses rely on alignment to a single linear reference genome to detect variation or quantify functional enrichment. This removes our ability to identify novel sequences not present within the reference and limits characterization of structural variations in the genome, which can have large functional consequences. Pangenome graphs represent the total genetic diversity of a species or population in a graph-based data structure, with individual haplotypes occuring as "walks" through the graph and variation between individuals displayed using "bubbles" or "snarls". I am working on using long-read sequencing data to build pangenome graphs for marine invertebrate species, which are well-known for harboring high levels of heterozygosity and polymorphism. Downstream analyses will center on how structural variation contributes to population genomic patterns, gene regulation and functional genomics, and broader comparative genomic questions.  
 
-<img src="assets/img/Pangenome.png" alt="Example of a pangenome graph" style="display: block; margin: 0 auto; width: 50%; height: auto;">
+<img src="../assets/img/Pangenome.png" alt="Example of a pangenome graph" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
 
 ---------------------------------------------------------
@@ -26,7 +26,7 @@ Most current genomic analyses rely on alignment to a single linear reference gen
 
 The eastern oyster is a ecologically and economically important species, with aquaculture production valued at around $200 million annually. I am interested in developing genomic tools to improve disease resistance and other complex traits in oyster aquaculture. Dermo disease inflicts high mortalities upon farmed oyster populations, and resistance to dermo is a polygenic trait governed by the interacting effects of many genes. The trait's complex genetic architecture and low heritability poses a challenge for traditional phenotype-based selective breeding. Currently, I am working on training machine learning models for genomic predictions of dermo resistance in oysters genotyped with a high-density 66k SNP array. I am also working on evaluating the effectiveness of genomic selection at predicting survival from oysters deployed in the field, where the interacting effects of many stressors may contribute to mortality. Future work in this area will integrate pangenome-derived structural variants into genomic predictions to evaluate the impact of SVs on predictive accuracy.  
 
-<img src="assets/img/GS.jpeg" alt="GEBV predictions of GS models" style="display: block; margin: 0 auto; width: 50%; height: auto;">
+<img src="GS.jpg" alt="GEBV predictions of GS models" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
 
 ----------------------------------------------------------
