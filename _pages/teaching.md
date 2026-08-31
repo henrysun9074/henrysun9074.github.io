@@ -8,9 +8,7 @@ nav_order: 4
 calendar: false
 ---
 
-## Teaching
-
-Biology is a wonderful discipline that helps define our understanding of ourselves and our relationship to the world around us. Through teaching, I seek both to help students acquire deeper understandings of biological processes, and to impart confidence using data science and computational schools to analyze biological data. I am pursuing a [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/) through Duke's Graduate School alongside accruing teaching experience primarily through serving as a guest lecturer in courses taught at the Duke Marine Lab. Below is part of a draft teaching statement I made for CCT, alongside some resources and teaching materials I've contributed to.
+Biology is a wonderful discipline that helps define our understanding of ourselves and our relationship to the world around us. Through teaching, I seek both to help students acquire deeper understandings of biological processes, and to impart confidence using data science and computational schools to analyze biological data. I am pursuing a [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/) through Duke's Graduate School alongside accruing teaching experience primarily through serving as a guest lecturer. Below is part of a draft teaching statement I made for CCT, alongside some resources and teaching materials I've contributed to.
 
 ### Philosophy
 
@@ -36,13 +34,12 @@ Equally important to me as any quantitative teaching approach is fostering an in
 
 <p></p>
 <div></div>
+----------------------------------------------------------
 
-
-## Outreach
+## Outreach  
 
 **Growing Equity in Science and Technology (GEST):**
 * [GEST](https://sites.duke.edu/gest/) is an annual outreach event hosted at the Duke University Marine Lab geared towards providing middle school students with STEM activities, knowledge, and access to role models (faculty, staff, etc.). I serve on the planning committee for GEST, help to maintain the website, and lead the creation of the GEST [newsletter](https://sites.duke.edu/gest/current-edition/).
 
 **SciREN Coast:**  
 * Held annually in coastal North Carolina, [SciREN Coast](https://sciren.org/sciren-coast/) connects researchers with local grade school teachers to help develop curricula and classroom activities. In 2025, our booth, which discussed the use of technology, remote sensing, and AI in studying marine ecosystems, won runner-up! In 2026, our booth focused on showcasing biodiversity of local marine invertebrate species, and again won runner-up!
-
