@@ -32,11 +32,14 @@ Equally important to me as any quantitative teaching approach is fostering an in
 * Duke Oceans Week (2025) -- "AI in Marine Science" [[slides](https://docs.google.com/presentation/d/1yG2Ro9LQljkMzhySYC7AxPC8I66gyIR0Q5OMxwG4uj4/edit?usp=sharing)]
 * SciREN Coast (2025) -- "Technology to Study Marine Animals" [[slides](https://canva.link/cgk18j8sh5dq3d8)]
 
-<p></p>
-<div></div>
+<br><br>
+<div style="height: 1.5rem;"></div>
+
 ----------------------------------------------------------
 
 ## outreach  
+
+<br><br>
 
 Myself and my labmates stay involved in a wide range of outreach activities, such as organizing touch tanks to showcase local invertebrate biodiversity for visiting students, with the aim of sharing our passion for marine biology with the wider public.  
 
