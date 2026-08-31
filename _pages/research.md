@@ -8,7 +8,8 @@ nav_order: 2
 calendar: false
 ---
 
-Here are some current areas of interest:  
+Below are some current areas of interest, which are evolving quickly!  
+
 ----------------------------------------------------------
 <div></div>
 
