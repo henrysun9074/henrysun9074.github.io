@@ -47,7 +47,7 @@ Local adaptation and phenotypic plasticity represent two complementary mechanism
 
 I am interested in the dynamics of genome and chromosome evolution in marine invertebrates. Macrosynteny refers to large-scale chromosome structure conservation over deep evolutionary time, and can provide insight into major genomic rearrangements across different lineages.  Currently, we are studying genome evolution in limpets, using these ancient gastropods to investigate patterns of macrosynteny and chromosome evolution under a broad comparative genomic framework. Limpets display marked reductions in chromosome number and genome size compared to other gastropods and mollusks, many of which show remarkable preservation of the hypothesized ancestral bilaterian karyotype. Thus, limpets provide an interesting system for examining how large-scale genomic changes may influence adaptation over deep time.  
 
-<img src="../assets/img/Macrosynteny.png" alt="Macrosynteny across mollusks" style="display: block; margin: 0 auto; width: 50%; height: auto;">
+<img src="../assets/img/Macrosynteny.jpg" alt="Macrosynteny across mollusks" style="display: block; margin: 0 auto; width: 100%; height: auto;">
 
 ----------------------------------------------------------
 <div></div>
