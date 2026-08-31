@@ -36,7 +36,7 @@ Equally important to me as any quantitative teaching approach is fostering an in
 <div></div>
 ----------------------------------------------------------
 
-## Outreach  
+## outreach  
 
 Myself and my labmates stay involved in a wide range of outreach activities, such as organizing touch tanks to showcase local invertebrate biodiversity for visiting students, with the aim of sharing our passion for marine biology with the wider public.  
 
