@@ -19,9 +19,8 @@ Many genomic analyses rely on alignment to a single linear reference genome to d
 
 <img src="../assets/img/Pangenome.png" alt="Example of a pangenome graph" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
-
+<div style="height: 1rem;"></div>
 ---------------------------------------------------------
-<div></div>
 
 #### Genomic selection for oyster aquaculture
 
@@ -29,9 +28,8 @@ Aquaculture production of the eastern oyster is valued at around $200 million an
 
 <img src="../assets/img/GS.jpg" alt="GEBV predictions of GS models" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
-
+<div style="height: 1rem;"></div>
 ----------------------------------------------------------
-<div></div>
 
 #### Eco-evolutionary responses to climate change
 
@@ -39,9 +37,8 @@ Local adaptation and phenotypic plasticity represent two complementary mechanism
 
 <img src="../assets/img/RNAseq.png" alt="RNA-seq response of oysters" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
-
+<div style="height: 1rem;"></div>
 ----------------------------------------------------------
-<div></div>
 
 #### Macrosynteny and karyotype evolution
 
@@ -49,8 +46,8 @@ I am interested in the dynamics of genome and chromosome evolution in marine inv
 
 <img src="../assets/img/Macrosynteny.jpg" alt="Macrosynteny across mollusks" style="display: block; margin: 0 auto; width: 75%; height: auto;">
 
+<div style="height: 1rem;"></div>
 ----------------------------------------------------------
-<div></div>
 
 #### Machine learning methods development and integration
 
