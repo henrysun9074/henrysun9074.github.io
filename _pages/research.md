@@ -9,8 +9,7 @@ calendar: false
 ---
 
 Below are some current areas of interest:  
-<br><br>
-
+<div style="height: 1rem;"></div>
 ----------------------------------------------------------
 
 #### Building pangenome graphs

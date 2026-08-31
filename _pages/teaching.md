@@ -36,7 +36,7 @@ Equally important to me as any quantitative teaching approach is fostering an in
 
 <div style="height: 1.5rem;"></div>
 
-## outreach  
+# outreach
 
 <div style="height: 1rem;"></div>
 
