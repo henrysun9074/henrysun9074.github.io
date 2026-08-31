@@ -8,14 +8,14 @@ nav_order: 2
 calendar: false
 ---
 
-Below are some current areas of interest, which are evolving quickly!  
+Below are some current areas of interest:  
 
 ----------------------------------------------------------
 <div></div>
 
 #### Building pangenome graphs
 
-Most current genomic analyses rely on alignment to a single linear reference genome to detect variation or quantify functional enrichment. This removes our ability to identify novel sequences not present within the reference and limits characterization of structural variations in the genome, which can have large functional consequences. Pangenome graphs represent the total genetic diversity of a species or population in a graph-based data structure, with individual haplotypes occuring as "walks" through the graph and variation between individuals displayed using "bubbles" or "snarls". I am working on using long-read sequencing data to build pangenome graphs for marine invertebrate species, which are well-known for harboring high levels of heterozygosity and polymorphism. Downstream analyses will center on how structural variation contributes to population genomic patterns, gene regulation and functional genomics, and broader comparative genomic questions.  
+Many genomic analyses rely on alignment to a single linear reference genome to detect variation or quantify functional enrichment within query sequences. This removes our ability to identify novel sequences not present within the reference and hinders characterization of structural variations in the genome, which can have large functional consequences. Pangenome graphs represent the total genetic diversity of a species or population in a graph-based data structure, with individual haplotypes occuring as "walks" through the graph and variation between individuals displayed using "bubbles" or "snarls". I am working on using long-read sequencing data to build pangenome graphs for marine invertebrate species, which are well-known for harboring high levels of heterozygosity and polymorphism. Downstream analyses will center on how structural variation contributes to population genomic patterns, gene regulation and functional genomics, and broader comparative genomic questions.  
 
 <img src="../assets/img/Pangenome.png" alt="Example of a pangenome graph" style="display: block; margin: 0 auto; width: 50%; height: auto;">
 
