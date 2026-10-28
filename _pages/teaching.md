@@ -20,13 +20,14 @@ I design class activities and assignments that engage students directly in the p
 
 Equally important to me as any quantitative teaching approach is fostering an inclusive and supportive learning environment. I believe that, like any healthy ecosystem, a classroom thrives on diversity. Diverse perspectives and experiences strengthen scientific inquiry by shaping the questions we ask and the ways we interpret data. I strive to make all students feel seen and valued through open communication, accessible mentorship, and structured opportunities for feedback.  
 
-### Experience
+### Teaching Materials
 
-**Guest Lecturer**
+**Guest Lectures**
+* Biodiversity of Marine Invertebrates (2026) - "Marine Invertebrate Genomics and Aquaculture" [[slides](https://docs.google.com/presentation/d/1E5NdaqUZUoXY7w00En9BR2OxRDd74hdFn3lCTh381Xo/edit?usp=sharing)]
 * Sensory Physiology and Behavior of Marine Organisms (2026) -- "Artificial Intelligence for Biologists" [[slides](https://docs.google.com/presentation/d/1DpMn-9ZPXcN44cKN2LTOxyCm8ka7gx6vu9K5ezeceY4/edit?usp=sharing)]
 * Drones in Marine Science (2025) -- "Generative AI and diffusion models for dataset augmentation and cetacean detection" [[slides](https://docs.google.com/presentation/d/1SpjN0fa7tk44nCcywbpBKf0mk8BC7qHoiGQqafegGCY/edit?usp=sharing)]  
 
-**Other Educational Resources**
+**Other Educational Talks**
 * Duke Bonaventura Fellows (2026) -- "Reproducibility and version control with git" [[slides](https://docs.google.com/presentation/d/1JxozcdS2SkPnA_6yDZeHX-VUMSGvv5VWtWO01rZ1qIE/edit?usp=sharing)]
 * Wong Lab (2025) -- "Version control with git" [[slides](https://docs.google.com/presentation/d/1Q6BRY6Ldi4FlbrBgzMWo-phK6zh2jBhEF-7jL3mlhUA/edit?usp=sharing)]
 * Duke Oceans Week (2025) -- "AI in Marine Science" [[slides](https://docs.google.com/presentation/d/1yG2Ro9LQljkMzhySYC7AxPC8I66gyIR0Q5OMxwG4uj4/edit?usp=sharing)]
